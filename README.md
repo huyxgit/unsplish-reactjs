@@ -1,1 +1,11 @@
-# simple-unsplash
+a small reactjs project,
+
+unsplash API
+
+momentjs
+
+axios
+
+react-bootstrap
+
+react-icons
