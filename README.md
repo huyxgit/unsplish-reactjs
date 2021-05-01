@@ -1,4 +1,4 @@
-a small reactjs project,
+A small reactjs project
 
 unsplash API
 
