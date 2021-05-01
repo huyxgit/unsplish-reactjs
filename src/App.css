@@ -1,0 +1,12 @@
+.App-style {
+  background-color: #f5f5f7;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  background: rgb(0, 238, 255);
+}
+
+::selection {
+  background: rgb(0, 238, 255);
+}
